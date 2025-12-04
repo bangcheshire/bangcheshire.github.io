@@ -6,7 +6,7 @@ author: SZE Cary
 tags: [NotebookLM]
 ---
 
-这篇教程是根据11份的NotebookLM进行重置，重置的版本会增加使用案例，实际去部署使用NotebookLM, 利用它来不是一个问答机器人
+这篇教程是根据11月份的NotebookLM文章进行重置，重置的版本会增加使用案例，实际去部署使用NotebookLM, 利用它来部署一个问答机器人
 
 ## 前言
 Gemini在香港版本的workspace是可以访问的，但是NotebookLM就不能访问，很简单，只需要VPN（梯子）就可以访问到了。所以，哪里有便宜的VPN呢？
@@ -16,7 +16,7 @@ Gemini在香港版本的workspace是可以访问的，但是NotebookLM就不能�
 注意，如果是从第三方平台购买的1年的学生优惠账号，对于这些没给钱的账号，Google会一直提示验证账号，有几率追加封号，原因是该机器人注册了此账号。这种账号当初就是机器人所注册的。所以，IP纯净度只是Google检测风险的一种手段，不是唯一手段，人家想封你购买的Gmail号也有别的手段。
 
 ## 打开NotebookLM
-利用VPN，访问：(https://notebooklm.google/)
+利用VPN，访问：<https://notebooklm.google/>
 
 ![Desktop View](/assets/picture/Using-NotebookLM/2025-12-04 211327.png){: width="972" height="589" }
 
@@ -62,6 +62,8 @@ Workspace版本不支持直接将笔记本公开分享，只能预览并对话
 
 ### 影片摘要
 LM生成一条影片，但是生成的时间会更长，来源越多，生成的时间就越久
+这里是可供观看的链接
+<https://drive.google.com/file/d/139ioOaBgO2UIGcb7FDnUyqY99KXS2b2M/view?usp=sharing>
 
 ### 语音摘要
 LM会生成一条AI的播客，有2位主持人一问一答，来源越多，生成对策时间就越久
